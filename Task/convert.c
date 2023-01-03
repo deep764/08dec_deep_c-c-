@@ -5,6 +5,6 @@ int main()
     printf("Enter days: ");
     scanf("%d", &days);
     weeks =days/7;
-    printf("Weeks:%d\n",weeks);
+    printf("Weeks:%d",weeks);
     return 0;
 }
