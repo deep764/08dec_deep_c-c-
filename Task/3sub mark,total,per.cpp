@@ -11,7 +11,6 @@ int main()
 	scanf("%d",&che);
 	total=phy+maths+che;
 	per=total/3;
-	
 	if(phy>=33&&maths>=33&&che>=33)
 	{
 		printf("\nTotal marks:%d",total);
