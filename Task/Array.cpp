@@ -19,9 +19,8 @@ int main()
     	printf("\n");
         for (j = 0; j < 3; j++)
         {
-            printf("%d\t",array[i][j]);
+            printf("%d ",array[i][j]);
         } 
     }
-    
     return 0;
 }
